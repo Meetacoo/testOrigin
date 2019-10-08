@@ -6,3 +6,4 @@ test new pull request
 test pr
 test
 test more
+delete origin branch after pull request
