@@ -8,4 +8,4 @@ test
 test more
 delete origin branch after pull request
 delete origin branch after pull request again
-test rebase
+test rebase commit
